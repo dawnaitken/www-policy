@@ -13,7 +13,7 @@ v1
   - Todo for Dawn: Create invoice in Stripe
 3. Create Invoice in Stripe
   - Navigate in Copper to Opportunity
-  - Copy the Email address of the Opportinity Primary Contact
+  - Copy the Email address of the Opportunity Primary Contact
   - Login to Stripe
   - Validate or Create Customer in Stripe
     - Search for email address of Opportunity Contact
